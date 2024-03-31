@@ -1,0 +1,912 @@
+************************************** 50 % ENG-ALL *************************************
+
+
+The run with : 
+
+    public static int numberOfInstances = 6;
+    conf.setLong("mapreduce.input.fileinputformat.split.maxsize", Long.MAX_VALUE);
+    
+Time : 1 hour, 10 minutes.
+
+
+OUTPUT IS: 
+
+
+1760	ion C 1.0
+1820	ard bearing 1.0
+1820	come nigh 1.0
+1820	s horns 1.0
+1820	ILY DUTIES 1.0
+1820	t end 0.9582751572056848
+1820	o et 0.9564583903896827
+1820	en traitor 0.9286709101132536
+1820	en roofs 0.9286709101132536
+1820	t Hindoo 0.8944731980599792
+1820	o The 0.8901967110175368
+1970	e Kayibanda 0.5836671171026995
+1970	e bicarbonate 0.5836671171026995
+1970	o et 0.5568281710615492
+1970	ay comes 0.535951789511223
+1970	e La 0.5195785479739103
+1970	e Their 0.49934262472851276
+1970	e et 0.4484904955376999
+1970	er psoriatic 0.42717056532239445
+1970	er AG 0.42717056532239445
+1970	er et 0.2502943923881503
+2000	e beetle 0.5396834826177578
+2000	e Native 0.5326397761458957
+2000	e ideas 0.5161847951044787
+2000	e Glenkens 0.5161847951044787
+2000	e compound 0.5062725195346068
+2000	e Epstein 0.49464706567592864
+2000	e past 0.48042446121681776
+2000	e Law 0.45676953873569176
+2000	ficial man 0.41520223453117955
+2000	pt man 0.37449946240219006
+
+
+1720	wo Servants 1.0
+1870	r dar 0.9647121075230012
+1870	s flagship 0.9164744648428986
+1870	r wherries 0.8701402246743379
+1870	s dans 0.8511031753612116
+1870	s corps 0.7944367266748864
+1870	s did 0.7944367266748864
+1870	s And 0.7448449505082303
+1870	e Himself 0.5421925362503929
+1870	e Bellini 0.5351160827372008
+1870	e imposed 0.4638600260768886
+1930	ng sizes 0.9057080720959642
+1930	es contracts 0.9019688028053401
+1930	r Album 0.891555666664309
+1930	rd Street 0.8901967110175368
+1930	ble Argonauts 0.8869460673189385
+1930	The Malay 0.8617243616282044
+1930	e peas 0.8303901522019278
+1930	o que 0.7273698540270518
+1930	e gussets 0.7074993167893674
+1930	e curves 0.6694364381434806
+
+
+
+
+
+1680	nd Daughter 1.0
+1740	s weighty 1.0
+1800	l animals 1.0
+1800	double cornices 1.0
+1800	es Blount 1.0
+1800	man disputes 1.0
+1800	ra da 1.0
+1800	Scots acre 0.9999999999999998
+1800	s Booth 0.9969880465233196
+1800	er chapters 0.9712469648643811
+1800	er coat 0.8751523576352715
+1800	s Abbess 0.6551981561653871
+1890	te Stakes 0.9504970192010848
+1890	te begins 0.9019688028053401
+1890	ic Collectivism 0.8725170852347862
+1890	ic rays 0.85790204411476
+1890	t ou 0.824754178350046
+1890	ic coefficient 0.7904974953936991
+1890	e heard 0.7660543230051154
+1890	e battery 0.6852150601860578
+1890	e Money 0.6852150601860578
+1890	e van 0.6852150601860578
+1950	e papers 0.7490855929000483
+1950	r mucopolysaccharide 0.7302087334417152
+1950	n areas 0.688622413655844
+1950	nd erwiesen 0.678226186997725
+1950	n expressed 0.6753988255291044
+1950	y Beach 0.6572376762638125
+1950	ther coat 0.6401879584361065
+1950	y bases 0.6298145375432038
+1950	y study 0.6117054580163004
+1950	s III 0.5418185159145547
+
+
+
+1790	ous maffes 1.0
+1790	inft pain 1.0
+1790	c Notary 1.0
+1790	eneral Preface 1.0
+1790	d Had 1.0
+1850	fe He 1.0
+1850	hing dead 1.0
+1850	le cells 1.0
+1850	n Vladimir 0.9869484490470299
+1850	e misletoe 0.9506726027396701
+1850	y probably 0.9506457558227717
+1850	y lakes 0.8959000708906606
+1850	e beast 0.8278821002188413
+1850	n Algae 0.8021211685484594
+1850	e Woolwich 0.6997435225089859
+1910	s layers 0.9676419346916463
+1910	d larvae 0.9379889138565448
+1910	l Shafts 0.9103471670784118
+1910	l Bey 0.9103471670784118
+1910	d condolences 0.909011375028613
+1910	es Boehmer 0.8454060294318241
+1910	s composing 0.8073800926109742
+1910	e rolls 0.8051400741726135
+1910	l livery 0.7788260302886229
+1910	s por 0.7536247267366978
+
+
+
+
+1670	mind brought 1.0
+1880	ed Geraldine 0.8993610649512532
+1880	e everyday 0.8930592812601854
+1880	S OF 0.8693931120470999
+1880	s hyposulphite 0.8557005952160267
+1880	s par 0.8199966224016361
+1880	s Thomas 0.8199966224016361
+1880	s used 0.8199966224016361
+1880	s Loss 0.7964192307066329
+1880	t party 0.7926325546240796
+1880	s Bottom 0.7654012479847071
+1940	nham Hall 0.8511302534550915
+1940	ji I 0.803496381730308
+1940	e Kelloggs 0.7841654644403315
+1940	nd Riflemen 0.776758575616828
+1940	sness A 0.7248303349284013
+1940	r forfeited 0.7198568942273227
+1940	eed A 0.6991431959831218
+1940	Hypothesis A 0.663448005339811
+1940	r vigour 0.589238978270417
+1940	bused young 0.5885606618146657
+
+
+
+1750	ve Saxon 1.0
+1750	Relative Duties 1.0
+1750	t Opinion 1.0
+1810	Orestes returns 1.0
+1810	w passages 1.0
+1810	ir alum 1.0
+1810	le la 1.0
+1810	led Beghards 1.0
+1810	sweet vegetable 1.0
+1810	Jewish captives 1.0
+1810	ella Moneta 1.0
+1810	h given 0.9933071389908428
+1810	h Ben 0.6652725043972403
+1960	s I 0.5768537673835463
+1960	ing N 0.5684786155836618
+1960	y bullion 0.5113536406175941
+1960	y petrels 0.48604011116464585
+1960	n objecting 0.4654313223322223
+1960	n cryostat 0.4654313223322223
+1960	n barren 0.4451656933948187
+1960	n disulnde 0.42659122482049766
+1960	n shrines 0.4143254323446871
+1960	n Find 0.3981887814374517
+
+
+
+
+
+1770	nd thinning 1.0
+1770	fhould fully 1.0
+1830	Osborne soon 1.0
+1830	tensive jurisdiction 1.0
+1830	oct new 1.0
+1830	permous structure 1.0
+1830	The yeomanry 1.0
+1830	o Police 0.9647121075230012
+1830	s won 0.9307218379409591
+1830	s Her 0.8944731980599792
+1830	o attornies 0.8701402246743379
+1830	s du 0.8386367630918655
+1980	s Gladiolus 0.5784875596794495
+1980	e Bowditch 0.5628648245494199
+1980	e fought 0.5628648245494199
+1980	t Aaron 0.5523661687277835
+1980	e predelle 0.5409430392264274
+1980	e Too 0.5409430392264274
+1980	e Static 0.5409430392264274
+1980	t doors 0.47256383719700273
+1980	s et 0.4201766467000457
+1980	r dc 0.22723261486481067
+
+
+1710	s God 1.0
+1710	ur Soldiers 1.0
+1860	nety bales 1.0
+1860	h Bey 1.0
+1860	y tons 0.9999999999999997
+1860	Y AND 0.9999999999999996
+1860	e end 0.9945465177947979
+1860	s V 0.9473799377401716
+1860	s Mr 0.8049102240477858
+1860	s shall 0.7439883479145433
+1860	e service 0.6870447275934963
+1860	s did 0.6544614853164029
+1920	dstuk I 0.8326906407462992
+1920	l facies 0.8202047258798991
+1920	t method 0.8137267042884367
+1920	t happened 0.7797740854744655
+1920	t Gaillard 0.7278567275316847
+1920	s The 0.7030910466519635
+1920	e Card 0.6383412636343508
+1920	e shade 0.551501873720394
+1920	e Requisites 0.4628582118424061
+1920	e tables 0.4392266980016628
+
+
+
+1780	s aut 1.0
+1780	DEI GRA 1.0
+1780	ta et 1.0
+1780	hofe wealth 1.0
+1780	x border 1.0
+1780	heroic plays 1.0
+1780	e des 0.9834462483010672
+1780	e animal 0.824754178350046
+1840	m freedom 0.913995243189884
+1840	S The 0.9119860285750256
+1840	m telling 0.8967677871843995
+1840	s tournament 0.8396667506031495
+1840	s gives 0.8396667506031495
+1840	s Isle 0.7981007435705544
+1840	s did 0.7981007435705544
+1840	s rusty 0.7797740854744655
+1840	s The 0.7062975919323891
+1840	s E 0.6824211293258662
+1900	t Tarquin 0.8044860123280246
+1900	e Sennacherib 0.7961428167039327
+1900	l funiculi 0.7891947639238077
+1900	t cut 0.786012730339761
+1900	f Making 0.7733663393137491
+1900	S The 0.7593324321527501
+1900	h scale 0.7561169600806733
+1900	e Kirby 0.743135628649919
+1900	n exposed 0.6836335511158883
+1900	s Any 0.45571345506336974
+1990	e Fulvia 0.513522841746191
+1990	e recovery 0.513522841746191
+1990	e grid 0.4987575014345198
+1990	e whispered 0.4987575014345198
+1990	y shelters 0.4968175232717702
+1990	e tells 0.4793324913827152
+1990	y No 0.4530906399751022
+1990	t memorable 0.44642752923755336
+1990	y Yes 0.42480699088589347
+1990	r John 0.35884530201360826
+
+
+
+
+
+
+
+Bad input: 
+1990	y No 0.4530906399751022
+1990	y Yes 0.42480699088589347
+1900	s Any 0.45571345506336974
+1860	s V 0.9473799377401716
+1980	e Too 0.5409430392264274
+
+Good output: 
+
+1800	Scots acre 0.9999999999999998
+1810	sweet vegetable 1.0
+1810	Jewish captives 1.0
+1940	bused young 0.5885606618146657
+1820	ILY DUTIES 1.0
+
+*********************** MAP REDUCE 1 **************************** 
+
+
+Job Counters 
+		Killed map tasks=3
+		Killed reduce tasks=1
+		Launched map tasks=1051
+		Launched reduce tasks=32
+		Data-local map tasks=1051
+		Total time spent by all maps in occupied slots (ms)=1880658864
+		Total time spent by all reduces in occupied slots (ms)=1198879776
+		Total time spent by all map tasks (ms)=39180393
+		Total time spent by all reduce tasks (ms)=12488331
+		Total vcore-milliseconds taken by all map tasks=39180393
+		Total vcore-milliseconds taken by all reduce tasks=12488331
+		Total megabyte-milliseconds taken by all map tasks=60181083648
+		Total megabyte-milliseconds taken by all reduce tasks=38364152832
+Map-Reduce Framework
+		Map input records=295408569
+		Map output records=2456
+		Map output bytes=49443
+		Map output materialized bytes=591924
+		Input split bytes=142800
+		Combine input records=2456
+		Combine output records=2456
+		Reduce input groups=2455
+		Reduce shuffle bytes=591924
+		Reduce input records=2456
+		Reduce output records=2455
+		Spilled Records=4912
+		Shuffled Maps =33600
+		Failed Shuffles=0
+		Merged Map outputs=33600
+		GC time elapsed (ms)=862010
+		CPU time spent (ms)=12243610
+		Physical memory (bytes) snapshot=693145509888
+		Virtual memory (bytes) snapshot=3618780631040
+		Total committed heap usage (bytes)=624008101888
+
+
+
+*********************** MAP REDUCE 2 **************************** 
+
+
+Job Counters 
+		Killed map tasks=1
+		Killed reduce tasks=1
+		Launched map tasks=32
+		Launched reduce tasks=9
+		Data-local map tasks=32
+		Total time spent by all maps in occupied slots (ms)=35145792
+		Total time spent by all reduces in occupied slots (ms)=16060704
+		Total time spent by all map tasks (ms)=732204
+		Total time spent by all reduce tasks (ms)=167299
+		Total vcore-milliseconds taken by all map tasks=732204
+		Total vcore-milliseconds taken by all reduce tasks=167299
+		Total megabyte-milliseconds taken by all map tasks=1124665344
+		Total megabyte-milliseconds taken by all reduce tasks=513942528
+Map-Reduce Framework
+		Map input records=2455
+		Map output records=4910
+		Map output bytes=108639
+		Map output materialized bytes=83105
+		Input split bytes=3840
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=4456
+		Reduce shuffle bytes=83105
+		Reduce input records=4910
+		Reduce output records=2455
+		Spilled Records=9820
+		Shuffled Maps =288
+		Failed Shuffles=0
+		Merged Map outputs=288
+		GC time elapsed (ms)=26562
+		CPU time spent (ms)=106960
+		Physical memory (bytes) snapshot=21845458944
+		Virtual memory (bytes) snapshot=147988635648
+		Total committed heap usage (bytes)=19821756416
+
+
+
+********************** MAP REDUCE 3 ******************************* 
+
+
+Job Counters 
+		Killed map tasks=1
+		Launched map tasks=9
+		Launched reduce tasks=9
+		Data-local map tasks=9
+		Total time spent by all maps in occupied slots (ms)=5306544
+		Total time spent by all reduces in occupied slots (ms)=10434816
+		Total time spent by all map tasks (ms)=110553
+		Total time spent by all reduce tasks (ms)=108696
+		Total vcore-milliseconds taken by all map tasks=110553
+		Total vcore-milliseconds taken by all reduce tasks=108696
+		Total megabyte-milliseconds taken by all map tasks=169809408
+		Total megabyte-milliseconds taken by all reduce tasks=333914112
+Map-Reduce Framework
+		Map input records=2455
+		Map output records=4910
+		Map output bytes=126482
+		Map output materialized bytes=77362
+		Input split bytes=1080
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=4842
+		Reduce shuffle bytes=77362
+		Reduce input records=4910
+		Reduce output records=2455
+		Spilled Records=9820
+		Shuffled Maps =81
+		Failed Shuffles=0
+		Merged Map outputs=81
+		GC time elapsed (ms)=8008
+		CPU time spent (ms)=22750
+		Physical memory (bytes) snapshot=8387637248
+		Virtual memory (bytes) snapshot=71687278592
+		Total committed heap usage (bytes)=7573340160
+
+
+
+************************** MAP REDUCE 4 *********************************
+
+
+Job Counters 
+		Killed map tasks=1
+		Launched map tasks=9
+		Launched reduce tasks=9
+		Data-local map tasks=9
+		Total time spent by all maps in occupied slots (ms)=5286144
+		Total time spent by all reduces in occupied slots (ms)=9852672
+		Total time spent by all map tasks (ms)=110128
+		Total time spent by all reduce tasks (ms)=102632
+		Total vcore-milliseconds taken by all map tasks=110128
+		Total vcore-milliseconds taken by all reduce tasks=102632
+		Total megabyte-milliseconds taken by all map tasks=169156608
+		Total megabyte-milliseconds taken by all reduce tasks=315285504
+Map-Reduce Framework
+		Map input records=2455
+		Map output records=2455
+		Map output bytes=63076
+		Map output materialized bytes=54819
+		Input split bytes=1080
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=31
+		Reduce shuffle bytes=54819
+		Reduce input records=2455
+		Reduce output records=235
+		Spilled Records=4910
+		Shuffled Maps =81
+		Failed Shuffles=0
+		Merged Map outputs=81
+		GC time elapsed (ms)=8019
+		CPU time spent (ms)=21200
+		Physical memory (bytes) snapshot=8340766720
+		Virtual memory (bytes) snapshot=71685402624
+		Total committed heap usage (bytes)=7712276480
+
+
+
+
+
+************************************** 100 % ENG-ALL *************************************
+
+
+
+
+public static int numberOfInstances = 6;
+conf.setLong("mapreduce.input.fileinputformat.split.maxsize", Long.MAX_VALUE);
+    
+Time : 1 hour, 10 minutes.
+
+************************** MAP REDUCE 1 *********************************
+
+Job Counters 
+		Killed map tasks=3
+		Killed reduce tasks=1
+		Launched map tasks=1050
+		Launched reduce tasks=32
+		Data-local map tasks=1050
+		Total time spent by all maps in occupied slots (ms)=1970454720
+		Total time spent by all reduces in occupied slots (ms)=1223717760
+		Total time spent by all map tasks (ms)=41051140
+		Total time spent by all reduce tasks (ms)=12747060
+		Total vcore-milliseconds taken by all map tasks=41051140
+		Total vcore-milliseconds taken by all reduce tasks=12747060
+		Total megabyte-milliseconds taken by all map tasks=63054551040
+		Total megabyte-milliseconds taken by all reduce tasks=39158968320
+Map-Reduce Framework
+		Map input records=295408569
+		Map output records=2456
+		Map output bytes=49443
+		Map output materialized bytes=591924
+		Input split bytes=142800
+		Combine input records=2456
+		Combine output records=2456
+		Reduce input groups=2455
+		Reduce shuffle bytes=591924
+		Reduce input records=2456
+		Reduce output records=2455
+		Spilled Records=4912
+		Shuffled Maps =33600
+		Failed Shuffles=0
+		Merged Map outputs=33600
+		GC time elapsed (ms)=894544
+		CPU time spent (ms)=12597070
+		Physical memory (bytes) snapshot=695327408128
+		Virtual memory (bytes) snapshot=3618954633216
+		Total committed heap usage (bytes)=626295046144
+
+
+
+************************** MAP REDUCE 2 *********************************
+
+Job Counters 
+		Killed map tasks=1
+		Launched map tasks=32
+		Launched reduce tasks=9
+		Data-local map tasks=32
+		Total time spent by all maps in occupied slots (ms)=35434512
+		Total time spent by all reduces in occupied slots (ms)=16308000
+		Total time spent by all map tasks (ms)=738219
+		Total time spent by all reduce tasks (ms)=169875
+		Total vcore-milliseconds taken by all map tasks=738219
+		Total vcore-milliseconds taken by all reduce tasks=169875
+		Total megabyte-milliseconds taken by all map tasks=1133904384
+		Total megabyte-milliseconds taken by all reduce tasks=521856000
+Map-Reduce Framework
+		Map input records=2455
+		Map output records=4910
+		Map output bytes=108639
+		Map output materialized bytes=83105
+		Input split bytes=4128
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=4456
+		Reduce shuffle bytes=83105
+		Reduce input records=4910
+		Reduce output records=2455
+		Spilled Records=9820
+		Shuffled Maps =288
+		Failed Shuffles=0
+		Merged Map outputs=288
+		GC time elapsed (ms)=26956
+		CPU time spent (ms)=109270
+		Physical memory (bytes) snapshot=21837381632
+		Virtual memory (bytes) snapshot=147983478784
+		Total committed heap usage (bytes)=19804454912
+
+
+************************** MAP REDUCE 3 *********************************
+
+Job Counters 
+		Killed map tasks=1
+		Killed reduce tasks=1
+		Launched map tasks=9
+		Launched reduce tasks=9
+		Data-local map tasks=9
+		Total time spent by all maps in occupied slots (ms)=5723040
+		Total time spent by all reduces in occupied slots (ms)=9910176
+		Total time spent by all map tasks (ms)=119230
+		Total time spent by all reduce tasks (ms)=103231
+		Total vcore-milliseconds taken by all map tasks=119230
+		Total vcore-milliseconds taken by all reduce tasks=103231
+		Total megabyte-milliseconds taken by all map tasks=183137280
+		Total megabyte-milliseconds taken by all reduce tasks=317125632
+Map-Reduce Framework
+		Map input records=2455
+		Map output records=4910
+		Map output bytes=126482
+		Map output materialized bytes=77362
+		Input split bytes=1179
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=4842
+		Reduce shuffle bytes=77362
+		Reduce input records=4910
+		Reduce output records=2455
+		Spilled Records=9820
+		Shuffled Maps =81
+		Failed Shuffles=0
+		Merged Map outputs=81
+		GC time elapsed (ms)=7910
+		CPU time spent (ms)=22200
+		Physical memory (bytes) snapshot=8384872448
+		Virtual memory (bytes) snapshot=71673511936
+		Total committed heap usage (bytes)=7649886208
+
+************************** MAP REDUCE 4 *********************************
+
+
+Job Counters 
+		Killed map tasks=1
+		Launched map tasks=9
+		Launched reduce tasks=9
+		Data-local map tasks=9
+		Total time spent by all maps in occupied slots (ms)=5498496
+		Total time spent by all reduces in occupied slots (ms)=10137504
+		Total time spent by all map tasks (ms)=114552
+		Total time spent by all reduce tasks (ms)=105599
+		Total vcore-milliseconds taken by all map tasks=114552
+		Total vcore-milliseconds taken by all reduce tasks=105599
+		Total megabyte-milliseconds taken by all map tasks=175951872
+		Total megabyte-milliseconds taken by all reduce tasks=324400128
+Map-Reduce Framework
+		Map input records=2455
+		Map output records=2455
+		Map output bytes=63076
+		Map output materialized bytes=54819
+		Input split bytes=1188
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=31
+		Reduce shuffle bytes=54819
+		Reduce input records=2455
+		Reduce output records=235
+		Spilled Records=4910
+		Shuffled Maps =81
+		Failed Shuffles=0
+		Merged Map outputs=81
+		GC time elapsed (ms)=7937
+		CPU time spent (ms)=23370
+		Physical memory (bytes) snapshot=8353665024
+		Virtual memory (bytes) snapshot=71705047040
+		Total committed heap usage (bytes)=7616856064
+
+
+
+OUTPUT :
+
+
+
+1760	ion C 1.0
+1820	ard bearing 1.0
+1820	ILY DUTIES 1.0
+1820	come nigh 1.0
+1820	s horns 1.0
+1820	t end 0.9582751572056848
+1820	o et 0.9564583903896827
+1820	en traitor 0.9286709101132536
+1820	en roofs 0.9286709101132536
+1820	t Hindoo 0.8944731980599792
+1820	o The 0.8901967110175368
+1970	e Kayibanda 0.5836671171026995
+1970	e bicarbonate 0.5836671171026995
+1970	o et 0.5568281710615492
+1970	ay comes 0.535951789511223
+1970	e La 0.5195785479739103
+1970	e Their 0.49934262472851276
+1970	e et 0.4484904955376999
+1970	er psoriatic 0.42717056532239445
+1970	er AG 0.42717056532239445
+1970	er et 0.2502943923881503
+2000	e beetle 0.5396834826177578
+2000	e Native 0.5326397761458957
+2000	e ideas 0.5161847951044787
+2000	e Glenkens 0.5161847951044787
+2000	e compound 0.5062725195346068
+2000	e Epstein 0.49464706567592864
+2000	e past 0.48042446121681776
+2000	e Law 0.45676953873569176
+2000	ficial man 0.41520223453117955
+2000	pt man 0.37449946240219006
+
+
+
+
+1680	nd Daughter 1.0
+1740	s weighty 1.0
+1800	l animals 1.0
+1800	double cornices 1.0
+1800	es Blount 1.0
+1800	man disputes 1.0
+1800	ra da 1.0
+1800	Scots acre 0.9999999999999998
+1800	s Booth 0.9969880465233196
+1800	er chapters 0.9712469648643811
+1800	er coat 0.8751523576352715
+1800	s Abbess 0.6551981561653871
+1890	te Stakes 0.9504970192010848
+1890	te begins 0.9019688028053401
+1890	ic Collectivism 0.8725170852347862
+1890	ic rays 0.85790204411476
+1890	t ou 0.824754178350046
+1890	ic coefficient 0.7904974953936991
+1890	e heard 0.7660543230051154
+1890	e battery 0.6852150601860578
+1890	e Money 0.6852150601860578
+1890	e van 0.6852150601860578
+1950	e papers 0.7490855929000483
+1950	r mucopolysaccharide 0.7302087334417152
+1950	n areas 0.688622413655844
+1950	nd erwiesen 0.678226186997725
+1950	n expressed 0.6753988255291044
+1950	y Beach 0.6572376762638125
+1950	ther coat 0.6401879584361065
+1950	y bases 0.6298145375432038
+1950	y study 0.6117054580163004
+1950	s III 0.5418185159145547
+
+
+
+
+1720	wo Servants 1.0
+1870	r dar 0.9647121075230012
+1870	s flagship 0.9164744648428986
+1870	r wherries 0.8701402246743379
+1870	s dans 0.8511031753612116
+1870	s corps 0.7944367266748864
+1870	s did 0.7944367266748864
+1870	s And 0.7448449505082303
+1870	e Himself 0.5421925362503929
+1870	e Bellini 0.5351160827372008
+1870	e imposed 0.4638600260768886
+1930	ng sizes 0.9057080720959642
+1930	es contracts 0.9019688028053401
+1930	r Album 0.891555666664309
+1930	rd Street 0.8901967110175368
+1930	ble Argonauts 0.8869460673189385
+1930	The Malay 0.8617243616282044
+1930	e peas 0.8303901522019278
+1930	o que 0.7273698540270518
+1930	e gussets 0.7074993167893674
+1930	e curves 0.6694364381434806
+
+
+
+1790	ous maffes 1.0
+1790	inft pain 1.0
+1790	c Notary 1.0
+1790	eneral Preface 1.0
+1790	d Had 1.0
+1850	fe He 1.0
+1850	hing dead 1.0
+1850	le cells 1.0
+1850	n Vladimir 0.9869484490470299
+1850	e misletoe 0.9506726027396701
+1850	y probably 0.9506457558227717
+1850	y lakes 0.8959000708906606
+1850	e beast 0.8278821002188413
+1850	n Algae 0.8021211685484594
+1850	e Woolwich 0.6997435225089859
+1910	s layers 0.9676419346916463
+1910	d larvae 0.9379889138565448
+1910	l Shafts 0.9103471670784118
+1910	l Bey 0.9103471670784118
+1910	d condolences 0.909011375028613
+1910	es Boehmer 0.8454060294318241
+1910	s composing 0.8073800926109742
+1910	e rolls 0.8051400741726135
+1910	l livery 0.7788260302886229
+1910	s por 0.7536247267366978
+
+
+
+1770	nd thinning 1.0
+1770	fhould fully 1.0
+1830	Osborne soon 1.0
+1830	tensive jurisdiction 1.0
+1830	oct new 1.0
+1830	permous structure 1.0
+1830	The yeomanry 1.0
+1830	o Police 0.9647121075230012
+1830	s won 0.9307218379409591
+1830	s Her 0.8944731980599792
+1830	o attornies 0.8701402246743379
+1830	s du 0.8386367630918655
+1980	s Gladiolus 0.5784875596794495
+1980	e Bowditch 0.5628648245494199
+1980	e fought 0.5628648245494199
+1980	t Aaron 0.5523661687277835
+1980	e predelle 0.5409430392264274
+1980	e Too 0.5409430392264274
+1980	e Static 0.5409430392264274
+1980	t doors 0.47256383719700273
+1980	s et 0.4201766467000457
+1980	r dc 0.22723261486481067
+
+1750	ve Saxon 1.0
+1750	Relative Duties 1.0
+1750	t Opinion 1.0
+1810	Orestes returns 1.0
+1810	w passages 1.0
+1810	ir alum 1.0
+1810	le la 1.0
+1810	led Beghards 1.0
+1810	sweet vegetable 1.0
+1810	Jewish captives 1.0
+1810	ella Moneta 1.0
+1810	h given 0.9933071389908428
+1810	h Ben 0.6652725043972403
+1960	s I 0.5768537673835463
+1960	ing N 0.5684786155836618
+1960	y bullion 0.5113536406175941
+1960	y petrels 0.48604011116464585
+1960	n objecting 0.4654313223322223
+1960	n cryostat 0.4654313223322223
+1960	n barren 0.4451656933948187
+1960	n disulnde 0.42659122482049766
+1960	n shrines 0.4143254323446871
+1960	n Find 0.3981887814374517
+
+
+
+1670	mind brought 1.0
+1880	ed Geraldine 0.8993610649512532
+1880	e everyday 0.8930592812601854
+1880	S OF 0.8693931120470999
+1880	s hyposulphite 0.8557005952160267
+1880	s par 0.8199966224016361
+1880	s Thomas 0.8199966224016361
+1880	s used 0.8199966224016361
+1880	s Loss 0.7964192307066329
+1880	t party 0.7926325546240796
+1880	s Bottom 0.7654012479847071
+1940	nham Hall 0.8511302534550915
+1940	ji I 0.803496381730308
+1940	e Kelloggs 0.7841654644403315
+1940	nd Riflemen 0.776758575616828
+1940	sness A 0.7248303349284013
+1940	r forfeited 0.7198568942273227
+1940	eed A 0.6991431959831218
+1940	Hypothesis A 0.663448005339811
+1940	r vigour 0.589238978270417
+1940	bused young 0.5885606618146657
+
+
+
+
+1710	s God 1.0
+1710	ur Soldiers 1.0
+1860	nety bales 1.0
+1860	h Bey 1.0
+1860	y tons 0.9999999999999997
+1860	Y AND 0.9999999999999996
+1860	e end 0.9945465177947979
+1860	s V 0.9473799377401716
+1860	s Mr 0.8049102240477858
+1860	s shall 0.7439883479145433
+1860	e service 0.6870447275934963
+1860	s did 0.6544614853164029
+1920	dstuk I 0.8326906407462992
+1920	l facies 0.8202047258798991
+1920	t method 0.8137267042884367
+1920	t happened 0.7797740854744655
+1920	t Gaillard 0.7278567275316847
+1920	s The 0.7030910466519635
+1920	e Card 0.6383412636343508
+1920	e shade 0.551501873720394
+1920	e Requisites 0.4628582118424061
+1920	e tables 0.4392266980016628
+
+
+
+1780	s aut 1.0
+1780	DEI GRA 1.0
+1780	ta et 1.0
+1780	hofe wealth 1.0
+1780	x border 1.0
+1780	heroic plays 1.0
+1780	e des 0.9834462483010672
+1780	e animal 0.824754178350046
+1840	m freedom 0.913995243189884
+1840	S The 0.9119860285750256
+1840	m telling 0.8967677871843995
+1840	s tournament 0.8396667506031495
+1840	s gives 0.8396667506031495
+1840	s Isle 0.7981007435705544
+1840	s did 0.7981007435705544
+1840	s rusty 0.7797740854744655
+1840	s The 0.7062975919323891
+1840	s E 0.6824211293258662
+1900	t Tarquin 0.8044860123280246
+1900	e Sennacherib 0.7961428167039327
+1900	l funiculi 0.7891947639238077
+1900	t cut 0.786012730339761
+1900	f Making 0.7733663393137491
+1900	S The 0.7593324321527501
+1900	h scale 0.7561169600806733
+1900	e Kirby 0.743135628649919
+1900	n exposed 0.6836335511158883
+1900	s Any 0.45571345506336974
+1990	e Fulvia 0.513522841746191
+1990	e recovery 0.513522841746191
+1990	e grid 0.4987575014345198
+1990	e whispered 0.4987575014345198
+1990	y shelters 0.4968175232717702
+1990	e tells 0.4793324913827152
+1990	y No 0.4530906399751022
+1990	t memorable 0.44642752923755336
+1990	y Yes 0.42480699088589347
+1990	r John 0.35884530201360826
+
+
+
+
+bad words :
+
+1920	e Requisites 0.4628582118424061
+1840	S The 0.9119860285750256
+1990	y Yes 0.42480699088589347
+1960	s I 0.5768537673835463
+1930	o que 0.7273698540270518
+
+
+good words: 
+
+1800	double cornices 1.0
+1720	wo Servants 1.0
+1790	eneral Preface 1.0
+1830	tensive jurisdiction 1.0
+
