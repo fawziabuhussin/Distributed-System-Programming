@@ -1,6 +1,3 @@
-יסמין המאם 211579636
-פאוזי אבו חוסין 212458061
-
 Q: How does our program run:
 A:
     DIFFERENT RUNS:
